@@ -4,3 +4,9 @@
 [submodule "bundle/vim-powerline"]
 	path = bundle/vim-powerline
 	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "bundle/jedi"]
+	path = bundle/jedi
+	url = https://github.com/davidhalter/jedi.git
+[submodule "bundle/pep8.py"]
+	path = bundle/pep8.py
+	url = https://github.com/cburroughs/pep8.py.git
