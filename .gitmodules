@@ -7,6 +7,3 @@
 [submodule "bundle/pep8.py"]
 	path = bundle/pep8.py
 	url = https://github.com/cburroughs/pep8.py.git
-[submodule "bundle/jedi-vim"]
-	path = bundle/jedi-vim
-	url = https://github.com/davidhalter/jedi-vim.git
